@@ -10,3 +10,7 @@ bin/
 /.idea/
 /rest-server/.settings/
 /rest-test/.settings/
+/rest-server/rest-server.iml
+/rest-test/rest-test.iml
+/rest-server/target/
+/API-Java-Base.iml
